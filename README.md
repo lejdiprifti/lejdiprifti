@@ -1,4 +1,4 @@
-![pexels-harold-vasquez-853421-2653362 (1)](https://github.com/user-attachments/assets/c84e1871-a684-4aa0-be8b-be9ef706547f)
+![banner-github](https://github.com/user-attachments/assets/4784c288-b484-4854-a935-81922ef57fa6)
 
 - 👋 Hi, I’m @lejdiprifti
 - 👀 I’m interested in software/app/web development and deep learning.
